@@ -91,7 +91,7 @@ export const projects = [
     des: "Get Job ready with Prepwise. Our AI-powered platform helps you prepare for interviews and land your dream job.",
     img: "/PrepWise.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/firebase-icon.svg"],
-    link: "https://prep-wise-alpha-khaki.vercel.app/",
+    link: "https://prep-wise-indol.vercel.app/sign-in",
   },
   {
     id: 3,
